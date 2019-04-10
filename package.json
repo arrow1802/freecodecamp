@@ -1,0 +1,23 @@
+{
+  "name": "freecodecamp_repo",
+  "version": "1.0.0",
+  "description": "all the code for freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrow1802/freecodecamp.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "arrow1604"
+  ],
+  "author": "arrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arrow1802/freecodecamp/issues"
+  },
+  "homepage": "https://github.com/arrow1802/freecodecamp#readme"
+}
